@@ -1,0 +1,27 @@
+Estudo de Caso RECLAMAÇÕES SOBRE PLANOS DE SAUDE
+
+CONTEXTO: A Agência Nacional de Saúde Suplementar (ANS) é o órgão responsável por regular e fiscalizar o setor de planos de saúde no Brasil. Uma das atribuições da ANS é receber e analisar reclamações de consumidores contra operadoras de planos de saúde.
+
+Para aprimorar o processo de análise de reclamações, a ANS está desenvolvendo um sistema que permita coletar informações mais detalhadas sobre as reclamações recebidas.
+
+A ANS contratou você e o seu grupo para fazer esse projeto
+
+TAREFA: Sua tarefa é desenvolver um programa em Python que permita coletar as seguintes informações sobre reclamações de planos de saúde:
+
+· Nome da operadora
+
+· Nome do cliente
+
+· Motivo da reclamação
+
+O usuário deve informar o nome da operadora. O programa deve estar preparado para solicitar APENAS 5 operadoras diferentes.
+
+Para cada operadora serão cadastrados clientes e suas reclamações. Não se sabe de antemão quantos clientes e reclamações serão cadastrados, por isso é importante que o programa pergunte se há mais algum cliente e reclamação a ser cadastrada para a operadora.
+
+Para cada operadora cadastrada, o programa deve apresentar o nome da operadora, o nome do cliente e o motivo da reclamação.
+
+Quando encerrar as reclamações de uma operadora, o programa deve exibir o total de reclamações da operadora
+
+Ao final, deverá ser informado o total geral de reclamações feitas.
+
+Atenção: Espera-se que se usem estruturas de repetição diferentes
