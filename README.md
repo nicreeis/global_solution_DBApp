@@ -2,9 +2,9 @@
 
 ## Estudo de Caso
 
-Global Solution é uma avaliação semestral da FIAP desenvolvida junto a uma problemática apresentada por empresa terceira. 
+A Global Solution é uma avaliação semestral da FIAP, desenvolvida a partir de um problema trazido por uma empresa terceira onde cada turma de cada curso propõe uma solução para esse problema.
 
-Neste semestre contamos com a participação da Hapvida NotreDame Intermédica. Com isso, para a matéria de Database Application and Data Science em forma de estudo de caso, foi solicitado a criação de um programa de avaliação/registro de reclamações de planos de saúde para a Agência Nacional de Saúde Suplementar, ANS.
+Neste semestre contamos com a participação da Hapvida NotreDame Intermédica. Com isso, para a disciplina de Aplicação de Banco de Dados e Ciência de Dados, sob a forma de estudo de caso, foi solicitada a criação de um programa para avaliação e registro de reclamações de planos de saúde à Agência Nacional de Saúde Suplementar (ANS).
 
 O programa foi desenvolvido em **PYTHON** e conta com:
 - Registro do nome de até 5 operadoras; 
@@ -12,4 +12,8 @@ O programa foi desenvolvido em **PYTHON** e conta com:
 - Registro do motivo da reclamação;
 - Contagem de reclamações.
 
-Pretendo adicionar um executável em breve para testar melhor o programa.
+## Arquivos do repositório
+
+- README.md
+- ans_program.py
+- contexto_desafio.txt
