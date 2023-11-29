@@ -32,8 +32,8 @@ while True:
 
             continuar_outra_operadora = input("Deseja registrar uma reclamação para outra operadora? S ou N: ").upper()
             if continuar_outra_operadora not in ["S", "SIM"]:
-                break  # Sai do loop para registrar reclamações para outra operadora
-
+                break  
+                
         print(f"Total geral de reclamações feitas: {total_geral_reclamacoes}")
         print("Agradecemos pela participação!")
         break
